@@ -1,5 +1,13 @@
 # weight Tracker
 
+## AuthorS
+
+* Charlessciedel
+* tinatasha
+* limobrian
+* charles-os
+* dennisnyamweya
+
 ## Description
 
 An application that tracks weight loss or gain and shows the best foods to consume to achieve either weight gain or loss.
